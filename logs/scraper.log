@@ -1,0 +1,140 @@
+2025-08-02 23:12:11 [info]: Fetching Google Trends via API...
+2025-08-02 23:12:12 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-02 23:12:12 [warn]: No cached data available, returning sample trends
+2025-08-02 23:12:12 [info]: Got Wikipedia context for Cryptocurrency
+2025-08-02 23:12:13 [info]: Got Wikipedia context for Climate Change
+2025-08-02 23:12:13 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-02 23:12:13 [info]: Got Wikipedia context for Quantum Computing
+2025-08-02 23:12:13 [info]: Got Wikipedia context for Space Exploration
+2025-08-02 23:12:13 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-02 23:12:13 [warn]: No Wikipedia context found for Global Economy
+2025-08-02 23:12:14 [info]: Got Wikipedia context for Olympics 2024
+2025-08-02 23:12:14 [info]: Got Wikipedia context for Stock Market
+2025-08-02 23:12:14 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-02 23:12:14 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:05:19 [info]: Fetching Google Trends via API...
+2025-08-03 10:05:20 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-03 10:05:20 [warn]: No cached data available, returning sample trends
+2025-08-03 10:05:21 [info]: Got Wikipedia context for Cryptocurrency
+2025-08-03 10:05:21 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:05:21 [info]: Got Wikipedia context for Stock Market
+2025-08-03 10:05:21 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-03 10:05:21 [info]: Got Wikipedia context for Olympics 2024
+2025-08-03 10:05:21 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-03 10:05:21 [info]: Got Wikipedia context for Quantum Computing
+2025-08-03 10:05:21 [info]: Got Wikipedia context for Climate Change
+2025-08-03 10:05:21 [info]: Got Wikipedia context for Space Exploration
+2025-08-03 10:05:22 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-03 10:05:22 [warn]: No Wikipedia context found for Global Economy
+2025-08-03 10:13:55 [info]: Fetching Google Trends via API...
+2025-08-03 10:13:56 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-03 10:13:56 [warn]: No cached data available, returning sample trends
+2025-08-03 10:13:57 [info]: Got Wikipedia context for Cryptocurrency
+2025-08-03 10:13:57 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-03 10:13:57 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-03 10:13:57 [warn]: No Wikipedia context found for Global Economy
+2025-08-03 10:13:57 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-03 10:13:57 [info]: Got Wikipedia context for Olympics 2024
+2025-08-03 10:13:57 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:13:57 [info]: Got Wikipedia context for Space Exploration
+2025-08-03 10:13:57 [info]: Got Wikipedia context for Climate Change
+2025-08-03 10:13:57 [info]: Got Wikipedia context for Stock Market
+2025-08-03 10:13:57 [info]: Got Wikipedia context for Quantum Computing
+2025-08-03 10:34:52 [info]: Fetching Google Trends via API...
+2025-08-03 10:34:53 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-03 10:34:53 [warn]: No cached data available, returning sample trends
+2025-08-03 10:34:53 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-03 10:34:53 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-03 10:34:53 [warn]: No Wikipedia context found for Global Economy
+2025-08-03 10:34:53 [info]: Got Wikipedia context for Olympics 2024
+2025-08-03 10:34:53 [info]: Got Wikipedia context for Cryptocurrency
+2025-08-03 10:34:53 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-03 10:34:53 [info]: Got Wikipedia context for Climate Change
+2025-08-03 10:34:53 [info]: Got Wikipedia context for Space Exploration
+2025-08-03 10:34:53 [info]: Got Wikipedia context for Stock Market
+2025-08-03 10:34:53 [info]: Got Wikipedia context for Quantum Computing
+2025-08-03 10:34:53 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:36:20 [info]: Fetching Google Trends via API...
+2025-08-03 10:36:21 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-03 10:36:21 [warn]: No cached data available, returning sample trends
+2025-08-03 10:36:21 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-03 10:36:21 [info]: Got Wikipedia context for Olympics 2024
+2025-08-03 10:36:22 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-03 10:36:22 [warn]: No Wikipedia context found for Global Economy
+2025-08-03 10:36:22 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-03 10:36:22 [info]: Got Wikipedia context for Stock Market
+2025-08-03 10:36:22 [info]: Got Wikipedia context for Quantum Computing
+2025-08-03 10:36:22 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:36:22 [info]: Got Wikipedia context for Cryptocurrency
+2025-08-03 10:36:22 [info]: Got Wikipedia context for Climate Change
+2025-08-03 10:36:22 [info]: Got Wikipedia context for Space Exploration
+2025-08-03 10:37:30 [info]: Fetching Google Trends via API...
+2025-08-03 10:37:31 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-03 10:37:31 [warn]: No cached data available, returning sample trends
+2025-08-03 10:37:31 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-03 10:37:31 [warn]: No Wikipedia context found for Global Economy
+2025-08-03 10:37:31 [info]: Got Wikipedia context for Stock Market
+2025-08-03 10:37:31 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-03 10:37:31 [info]: Got Wikipedia context for Quantum Computing
+2025-08-03 10:37:31 [info]: Got Wikipedia context for Olympics 2024
+2025-08-03 10:37:31 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-03 10:37:31 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:37:32 [info]: Got Wikipedia context for Space Exploration
+2025-08-03 10:37:32 [info]: Got Wikipedia context for Climate Change
+2025-08-03 10:37:32 [info]: Got Wikipedia context for Cryptocurrency
+2025-08-03 10:37:59 [info]: Fetching Google Trends via API...
+2025-08-03 10:37:59 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-03 10:37:59 [warn]: No cached data available, returning sample trends
+2025-08-03 10:38:00 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-03 10:38:00 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-03 10:38:00 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:38:00 [info]: Got Wikipedia context for Olympics 2024
+2025-08-03 10:38:00 [info]: Got Wikipedia context for Stock Market
+2025-08-03 10:38:00 [info]: Got Wikipedia context for Climate Change
+2025-08-03 10:38:00 [info]: Got Wikipedia context for Cryptocurrency
+2025-08-03 10:38:00 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-03 10:38:00 [warn]: No Wikipedia context found for Global Economy
+2025-08-03 10:38:00 [info]: Got Wikipedia context for Quantum Computing
+2025-08-03 10:38:00 [info]: Got Wikipedia context for Space Exploration
+2025-08-03 10:39:25 [info]: Fetching Google Trends via API...
+2025-08-03 10:39:26 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-03 10:39:26 [warn]: No cached data available, returning sample trends
+2025-08-03 10:39:26 [info]: Got Wikipedia context for Olympics 2024
+2025-08-03 10:39:26 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-03 10:39:26 [info]: Got Wikipedia context for Climate Change
+2025-08-03 10:39:26 [info]: Got Wikipedia context for Quantum Computing
+2025-08-03 10:39:26 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-03 10:39:26 [info]: Got Wikipedia context for Stock Market
+2025-08-03 10:39:26 [info]: Got Wikipedia context for Space Exploration
+2025-08-03 10:39:26 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-03 10:39:26 [warn]: No Wikipedia context found for Global Economy
+2025-08-03 10:39:26 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:39:26 [info]: Got Wikipedia context for Cryptocurrency
+2025-08-03 10:42:53 [info]: Fetching Google Trends via API...
+2025-08-03 10:42:53 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-03 10:42:53 [warn]: No cached data available, returning sample trends
+2025-08-03 10:42:54 [info]: Got Wikipedia context for Stock Market
+2025-08-03 10:42:54 [info]: Got Wikipedia context for Space Exploration
+2025-08-03 10:42:54 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-03 10:42:54 [warn]: No Wikipedia context found for Global Economy
+2025-08-03 10:42:54 [info]: Got Wikipedia context for Quantum Computing
+2025-08-03 10:42:54 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-03 10:42:54 [info]: Got Wikipedia context for Cryptocurrency
+2025-08-03 10:42:54 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-03 10:42:54 [info]: Got Wikipedia context for Olympics 2024
+2025-08-03 10:42:54 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:42:54 [info]: Got Wikipedia context for Climate Change
+2025-08-03 10:52:17 [info]: Fetching Google Trends via API...
+2025-08-03 10:52:18 [error]: Google Trends API failed: Request failed with status code 404
+2025-08-03 10:52:18 [warn]: No cached data available, returning sample trends
+2025-08-03 10:52:18 [info]: Got Wikipedia context for Artificial Intelligence
+2025-08-03 10:52:18 [info]: Got Wikipedia context for Stock Market
+2025-08-03 10:52:18 [warn]: Wikipedia page not found for topic: Global Economy
+2025-08-03 10:52:18 [warn]: No Wikipedia context found for Global Economy
+2025-08-03 10:52:18 [info]: Got Wikipedia context for Electric Vehicles
+2025-08-03 10:52:18 [info]: Got Wikipedia context for Quantum Computing
+2025-08-03 10:52:18 [info]: Got Wikipedia context for Climate Change
+2025-08-03 10:52:18 [info]: Got Wikipedia context for Space Exploration
+2025-08-03 10:52:18 [info]: Got Wikipedia context for Sustainable Energy
+2025-08-03 10:52:18 [info]: Got Wikipedia context for Olympics 2024
+2025-08-03 10:52:18 [info]: Got Wikipedia context for Cryptocurrency

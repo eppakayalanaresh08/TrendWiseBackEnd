@@ -1,0 +1,16 @@
+{"timestamp":"2025-08-02 22:48:02","level":"info","message":"Launching browser for scraping..."}
+{"timestamp":"2025-08-02 22:48:34","level":"error","message":"Scraping failed: Waiting for selector `.details-top` failed: Waiting failed: 15000ms exceeded"}
+{"timestamp":"2025-08-02 22:56:09","level":"info","message":"Launching browser for scraping..."}
+{"timestamp":"2025-08-02 22:56:53","level":"error","message":"All selectors failed, taking debug screenshot"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Scraping failed: Failed to find trending content elements"}
+{"timestamp":"2025-08-02 22:56:55","level":"warn","message":"No cached data available, returning sample trends"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Artificial Intelligence\" failed: scrapeWikipediaSummary is not a function"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Climate Change\" failed: scrapeWikipediaSummary is not a function"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Stock Market\" failed: scrapeWikipediaSummary is not a function"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Olympics 2024\" failed: scrapeWikipediaSummary is not a function"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Space Exploration\" failed: scrapeWikipediaSummary is not a function"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Electric Vehicles\" failed: scrapeWikipediaSummary is not a function"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Cryptocurrency\" failed: scrapeWikipediaSummary is not a function"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Quantum Computing\" failed: scrapeWikipediaSummary is not a function"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Sustainable Energy\" failed: scrapeWikipediaSummary is not a function"}
+{"timestamp":"2025-08-02 22:56:55","level":"error","message":"Content generation for \"Global Economy\" failed: scrapeWikipediaSummary is not a function"}
