@@ -96,13 +96,6 @@ node server.js
 
 ---
 
-## 👨‍💻 Developer
-
-- 💼 [Your Name](https://github.com/YOUR_USERNAME)
-- 📧 Email: admin@trendwise.com
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
