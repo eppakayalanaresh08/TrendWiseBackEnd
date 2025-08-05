@@ -20,10 +20,20 @@ const app = express();
 // Middlewares
 // app.use(cors());
 
+// app.use(cors({
+//   origin: 'http://localhost:5173', // your frontend origin
+//   credentials: true,               // allow cookies
+// }));
+
+
 app.use(cors({
-  origin: 'http://localhost:5173', // your frontend origin
-  credentials: true,               // allow cookies
+  origin: [
+    'http://localhost:5173',
+    'https://trend-wise-frontend-zeta.vercel.app'
+  ],
+  credentials: true, // Allow cookies and credentials
 }));
+
 
 app.use(session({
   secret: process.env.SESSION_SECRET || 'your_fallback_secret_here',
