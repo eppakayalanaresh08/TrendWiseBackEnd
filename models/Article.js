@@ -34,12 +34,15 @@ const ArticleSchema = new mongoose.Schema({
   
   // Media content
   media: {
+    // images: [{
+    //   type: String, // Store image URLs
+    //   validate: {
+    //     validator: (v) => /^https?:\/\/.+\.(jpg|jpeg|png|gif|webp)$/i.test(v),
+    //     message: props => `${props.value} is not a valid image URL!`
+    //   }
+    // }],
     images: [{
-      type: String, // Store image URLs
-      validate: {
-        validator: (v) => /^https?:\/\/.+\.(jpg|jpeg|png|gif|webp)$/i.test(v),
-        message: props => `${props.value} is not a valid image URL!`
-      }
+      type: String,
     }],
     videos: [{
       type: String, // Store video URLs/IDs
@@ -57,7 +60,8 @@ const ArticleSchema = new mongoose.Schema({
   },
   likes: [{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'User'
+    ref: 'User',
+    default: []
   }],
   
   // Timestamps

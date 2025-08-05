@@ -670,3 +670,22 @@ exports.scrapeTwitterTrends = async () => {
     return [];
   }
 };
+
+
+
+// Add this to services/scraper.js
+exports.searchUnsplashImages = async (query) => {
+  try {
+    const response = await axios.get('https://api.unsplash.com/search/photos', {
+      params: {
+        query,
+        per_page: 3,
+        client_id: process.env.UNSPLASH_ACCESS_KEY
+      }
+    });
+    return response.data.results.map(img => img.urls.regular);
+  } catch (err) {
+    logger.error(`Unsplash API error: ${err.message}`);
+    return [];
+  }
+};

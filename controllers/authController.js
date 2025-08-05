@@ -76,11 +76,6 @@ exports.googleAuthCallback = (req, res) => {
 
 
 
-
-
-
-
-
 // Keep logout and getCurrentUser exactly the same
 // exports.verifyToken = (req, res) => {
 //   try {

@@ -325,8 +325,9 @@
 
 
 const { OpenAI } = require('openai');
-const { scrapeWikipediaSummary } = require('./scraper');
+// const { scrapeWikipediaSummary } = require('./scraper');
 const logger = require('../utils/logger');
+const { scrapeWikipediaSummary, searchUnsplashImages } = require('./scraper');
 
 // Initialize OpenAI client
 const openai = new OpenAI({
@@ -448,6 +449,13 @@ exports.generateSEOContent = async (topic) => {
       throw new Error('Incomplete article generated');
     }
 
+      let images = [];
+    try {
+      images = await searchUnsplashImages(topic);
+    } catch (imgErr) {
+      logger.error(`Image search failed for ${topic}: ${imgErr.message}`);
+    }
+
     // 6. Return structured response
     return {
       title: generatedContent.title,
@@ -456,7 +464,7 @@ exports.generateSEOContent = async (topic) => {
       keywords: generatedContent.keywords || 
         [topic.toLowerCase(), 'guide', 'analysis'],
       body: generatedContent.body,
-      images: [],
+      images: images,
       videos: []
     };
 
